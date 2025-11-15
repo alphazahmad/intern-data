@@ -1,186 +1,75 @@
 [
     {
         "0": [
-           {
-    "name": "Nilofer Khan",
-    "rollNo": "KRFT0001",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Humaira Naaz",
-    "rollNo": "KRFT0002",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Khushi Parihar",
-    "rollNo": "KRFT0003",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Sawleha Ansari",
-    "rollNo": "KRFT0004",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Zaid Ansari",
-    "rollNo": "KRFT0005",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Saniya Sheikh",
-    "rollNo": "KRFT0006",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Wasim Sheikh",
-    "rollNo": "KRFT0007",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Sheikh Rehan",
-    "rollNo": "KRFT0008",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Gurulal singh",
-    "rollNo": "KRFT0009",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Kashish Mahure",
-    "rollNo": "KRFT0010",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Bhumika Narad",
-    "rollNo": "KRFT0011",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Huma Fatima",
-    "rollNo": "KRFT0012",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Ayushi takikar",
-    "rollNo": "KRFT0013",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Jogeshwar Patnaik",
-    "rollNo": "KRFT0014",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Saniya Quazi",
-    "rollNo": "KRFT0015",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Shruti Naraware",
-    "rollNo": "KRFT0016",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Sharwari Gawande",
-    "rollNo": "KRFT0017",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Priyush Nimbal",
-    "rollNo": "KRFT0018",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Aafiya aaisha",
-    "rollNo": "KRFT0019",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Shriyansh Bhoyar",
-    "rollNo": "KRFT0020",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Bindu Nishad",
-    "rollNo": "KRFT0021",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Parth Girdhar",
-    "rollNo": "KRFT0022",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Om Thakre",
-    "rollNo": "KRFT0023",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Rajdeep Shukla",
-    "rollNo": "KRFT0024",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Unnati Dahare",
-    "rollNo": "KRFT0025",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Madiha Sheikh",
-    "rollNo": "KRFT0026",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Swati Ambade",
-    "rollNo": "KRFT0027",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Mohammed Abubakr",
-    "rollNo": "KRFT0028",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Mariya Pathan",
-    "rollNo": "KRFT0029",
-    "link": "",
-    "linkTwo": ""
-},
-{
-    "name": "Syed Aqsa",
-    "rollNo": "KRFT0030",
-    "link": "",
-    "linkTwo": ""
-}
+            {
+                "name": "Huma Fatima",
+                "rollNo": "KRFT0101",
+                "link": "",
+                "linkTwo": ""
+            },
+            {
+                "name": "Saniya Sheikh",
+                "rollNo": "KRFT0102",
+                "link": "",
+                "linkTwo": ""
+            },
+            {
+                "name": "Rehan Sheikh",
+                "rollNo": "KRFT0103",
+                "link": "",
+                "linkTwo": ""
+            },
+            {
+                "name": "Sajiya Sheikh",
+                "rollNo": "KRFT0104",
+                "link": "",
+                "linkTwo": ""
+            },
+            {
+                "name": "Alkabeer Khan",
+                "rollNo": "KRFT0105",
+                "link": "",
+                "linkTwo": ""
+            },
+            {
+                "name": "Misbha Parveen",
+                "rollNo": "KRFT0106",
+                "link": "",
+                "linkTwo": ""
+            },
+
+            
+    { "name": "Nilofer Khan", "rollNo": "KRFT0001", "link": "", "linkTwo": "" },
+    { "name": "Humaira Naaz", "rollNo": "KRFT0002", "link": "", "linkTwo": "" },
+    { "name": "Khushi Parihar", "rollNo": "KRFT0003", "link": "", "linkTwo": "" },
+    { "name": "Sawleha Ansari", "rollNo": "KRFT0004", "link": "", "linkTwo": "" },
+    { "name": "Zaid Ansari", "rollNo": "KRFT0005", "link": "", "linkTwo": "" },
+    { "name": "Saniya Sheikh", "rollNo": "KRFT0006", "link": "", "linkTwo": "" },
+    { "name": "Wasim Sheikh", "rollNo": "KRFT0007", "link": "", "linkTwo": "" },
+    { "name": "Sheikh Rehan", "rollNo": "KRFT0008", "link": "", "linkTwo": "" },
+    { "name": "Gurulal singh", "rollNo": "KRFT0009", "link": "", "linkTwo": "" },
+    { "name": "Kashish Mahure", "rollNo": "KRFT0010", "link": "", "linkTwo": "" },
+    { "name": "Bhumika Narad", "rollNo": "KRFT0011", "link": "", "linkTwo": "" },
+    { "name": "Huma Fatima", "rollNo": "KRFT0012", "link": "", "linkTwo": "" },
+    { "name": "Ayushi takikar", "rollNo": "KRFT0013", "link": "", "linkTwo": "" },
+    { "name": "Jogeshwar Patnaik", "rollNo": "KRFT0014", "link": "", "linkTwo": "" },
+    { "name": "Saniya Quazi", "rollNo": "KRFT0015", "link": "", "linkTwo": "" },
+    { "name": "Shruti Naraware", "rollNo": "KRFT0016", "link": "", "linkTwo": "" },
+    { "name": "Sharwari Gawande", "rollNo": "KRFT0017", "link": "", "linkTwo": "" },
+    { "name": "Priyush Nimbal", "rollNo": "KRFT0018", "link": "", "linkTwo": "" },
+    { "name": "Aafiya aaisha", "rollNo": "KRFT0019", "link": "", "linkTwo": "" },
+    { "name": "Shriyansh Bhoyar", "rollNo": "KRFT0020", "link": "", "linkTwo": "" },
+    { "name": "Bindu Nishad", "rollNo": "KRFT0021", "link": "", "linkTwo": "" },
+    { "name": "Parth Girdhar", "rollNo": "KRFT0022", "link": "", "linkTwo": "" },
+    { "name": "Om Thakre", "rollNo": "KRFT0023", "link": "", "linkTwo": "" },
+    { "name": "Rajdeep Shukla", "rollNo": "KRFT0024", "link": "", "linkTwo": "" },
+    { "name": "Unnati Dahare", "rollNo": "KRFT0025", "link": "", "linkTwo": "" },
+    { "name": "Madiha Sheikh", "rollNo": "KRFT0026", "link": "", "linkTwo": "" },
+    { "name": "Swati Ambade", "rollNo": "KRFT0027", "link": "", "linkTwo": "" },
+    { "name": "Mohammed Abubakr", "rollNo": "KRFT0028", "link": "", "linkTwo": "" },
+    { "name": "Mariya Pathan", "rollNo": "KRFT0029", "link": "", "linkTwo": "" },
+    { "name": "Syed Aqsa", "rollNo": "KRFT0030", "link": "", "linkTwo": "" }
+
 
         ],
         "1": [
